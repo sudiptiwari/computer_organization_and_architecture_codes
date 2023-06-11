@@ -1,1 +1,1 @@
-# computer_organization_and_architecture_codes
+This repository contains Python code implementations for academic purposes, specifically focused on Computer Organization and Architecture.
